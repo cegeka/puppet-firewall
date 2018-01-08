@@ -937,3 +937,4 @@ If you have a copy of Vagrant 1.1.0 you can also run the system tests:
 
     RS_SET=ubuntu-1404-x64 rspec spec/acceptance
     RS_SET=centos-64-x64 rspec spec/acceptance
+
